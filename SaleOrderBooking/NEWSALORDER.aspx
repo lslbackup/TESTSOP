@@ -1,7 +1,7 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="NEWSALORDER.aspx.cs" Inherits="SaleOrderBooking.NEWSALORDER" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-
+    //updated 16.08.2020
 
   <div class="card border-success mb-3">
   <div class="card-header bg-transparent border-success">
